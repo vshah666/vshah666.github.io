@@ -1,0 +1,69 @@
+@font-face {
+    font-family: bigdot;
+    src: url(/Website/fonts/BigSquareDots.ttf);
+}
+.byline{
+    margin-bottom: 23px;
+    font-size: 100%;
+    color: beige;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+p{
+    color: beige;
+    line-height: 200%;
+    
+}
+.heading{
+    color: beige;
+    font-size: 250%;
+    font-family: bigdot;
+    margin-bottom: 20px;
+}
+body{
+    color: beige;
+    padding-left: 35px;
+    background-color: black;
+    line-height: 10px;
+    
+}
+
+.linkButton {
+    font-family: bigdot;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font-size: large;  
+    padding: 10px 20px;
+    border-radius: 8px;
+    background-color: beige; 
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    transition-duration: 0.7s;
+    cursor: pointer;
+    }
+
+    .linkButton:hover {
+    font-family: bigdot;
+    text-decoration: none;
+    text-align: center;
+    color: beige;
+    font-size: large; 
+    padding: 10px 20px;
+    border-radius: 8px;
+    background-color:navy;
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    transition-duration: 0.8s;
+    cursor: pointer;
+    }         
+  
+.center{
+    text-align: center;
+    align-items: center;
+}
+
+
+
